@@ -5,10 +5,10 @@ print ("""***********************
     
    
    
-1.Plus
-2.Minus
-3.Multiplication
-4.Division
+1.Plus  +
+2.Minus −
+3.Multiplication *
+4.Division /
 
 **********************""")
 
